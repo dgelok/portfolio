@@ -1,0 +1,18 @@
+About me:
+
+For 15 years, I was a professional classical saxophonist and a professor of music at a tier-one university. As such, my energies were split into two distinct areas: performance and education. Thousands of other crossovers to programming exist, but these two are the most significant. Performance taught me how to look at a project both microscopically and globally and build something from ground zero to a performance point - sharing with others. Education taught me the importance of clear thinking and clear communication, and the absolute necessity and benefit of working with others.  
+
+As a programmer, I was drawn to the order and beauty of simple, clear coding. I'm primarily interested in the way humans interact with code, and using technology to help humans interact with each other. I exist in a constant state of tension between nitty-gritty detail and big-picture execution. 
+
+
+Tech: 
+
+Python 
+HTML5 
+CSS3 
+Node.js 
+Git 
+SQL 
+JS 
+Jquery 
+express 
