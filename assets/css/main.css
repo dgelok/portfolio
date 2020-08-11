@@ -833,6 +833,10 @@ input, select, textarea {
 	}
 
 /* Icon */
+	.superic {
+		font-size: 50px;
+		padding-top: 30px;
+	}
 
 	.icon {
 		text-decoration: none;
