@@ -838,6 +838,10 @@ input, select, textarea {
 		padding-top: 30px;
 	}
 
+	.majoric {
+		font-size: 30px;
+	}
+
 	.icon {
 		text-decoration: none;
 		position: relative;
